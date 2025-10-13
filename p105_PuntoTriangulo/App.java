@@ -7,9 +7,9 @@ public class App {
         
         System.out.println(triangulo1.toString());
         System.out.println(triangulo2.toString());
-        System.out.println("Triangulo 1 - Vertice 1 : " + triangulo1.getV1());  // V mayúscula
-        System.out.println("Triangulo 1 - Vertice 2 : " + triangulo1.getV2());  // V mayúscula
-        System.out.println("Triangulo 1 - Vertice 3 : " + triangulo1.getV3());  // V mayúscula
+        System.out.println("Triangulo 1 - Vertice 1 : " + triangulo1.getV1());  
+        System.out.println("Triangulo 1 - Vertice 2 : " + triangulo1.getV2());  
+        System.out.println("Triangulo 1 - Vertice 3 : " + triangulo1.getV3());  
         System.out.println("Triangulo 1 - Perimetro : " + triangulo1.getPerimetro());
         System.out.println("Triangulo 1 - Tipo : " + triangulo1.getTipo());
     }
